@@ -161,6 +161,6 @@ var exampleVideoData = [{
     channelTitle: '',
     liveBroadcastContent: 'none'
   }
-}];
+}, ];
 
 export default exampleVideoData;
